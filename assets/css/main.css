@@ -2414,7 +2414,7 @@ input, select, textarea {
 			border: 0;
 			border-radius: 0;
 			padding: 0;
-			padding-left: 41.5%;
+			margin-left: 29em;
 		}
 
 /* Icon */
