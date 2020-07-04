@@ -2413,8 +2413,7 @@ input, select, textarea {
 		.box.alt {
 			border: 0;
 			border-radius: 0;
-			padding: 0;
-			margin-left: 29em;
+			padding: 10px;
 		}
 
 /* Icon */
@@ -2658,8 +2657,6 @@ input, select, textarea {
 			-webkit-justify-content: center;
 			-ms-justify-content: center;
 			justify-content: center;
-			width: 100%;
-			margin-left: 0;
 		}
 
 			ul.actions.special li:first-child {
@@ -3206,7 +3203,6 @@ input, select, textarea {
 	.wrapper {
 		padding: 6em 0 4em 0;
 	}
-
 		.wrapper.style2 {
 			background: #e44c65;
 		}
